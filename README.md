@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biof509/PythonDataScienceHandbook/master?urlpath=lab/tree/notebooks/Index.ipynb) biof509
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jshin13/PythonDataScienceHandbook/master?urlpath=lab/tree/notebooks/Index.ipynb) local
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jshin13/PythonDataScienceHandbook/master?urlpath=lab/tree/notebooks/Index.ipynb) remote
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
